@@ -130,5 +130,5 @@ Reading the `passwd` file, we were able to tell that the target is hosted with `
 So hoping to get to the server, we've fetched all the source code and we are now ready for a nice code analysis.
 
 ```
-WITH THE PERMISSION OF THE WEBSITE OWNER, WE WERE NOT ABLE TO SHARE THIS PART.
+WITHOUT THE PERMISSION OF THE WEBSITE OWNER, WE WERE NOT ABLE TO SHARE THIS PART.
 ```
