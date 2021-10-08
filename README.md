@@ -1,4 +1,4 @@
-# Glimpse At Web Penetration Testing
+# Glimpse Into Web Penetration Testing
 A web penetration testing example, that I did me and @Edd13Mora in our free time, for beginners to have an idea about websec.
 
 Our target is a PHP web application, which gives you great tools that you can use on XXX and XXX, such as the one that gives you the ability to download a full size profile picture for a specific profile which leads us to write this write-up.
